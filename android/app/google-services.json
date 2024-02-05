@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1076029723300",
+    "project_id": "a2zonlinelearning-dc309",
+    "storage_bucket": "a2zonlinelearning-dc309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076029723300:android:6dd9ee0d9a00368e35cc31",
+        "android_client_info": {
+          "package_name": "com.example.a2z_online_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076029723300-b25ijs6sq4rhqc5go8lu36kr497ejr83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAdx9dOPRxaM1ii19pUHaAZ4jNfcuvZ-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076029723300-b25ijs6sq4rhqc5go8lu36kr497ejr83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076029723300-539jp68gl244aef2rdii0d34qql3ojv0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.a2zOnlineLearning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
